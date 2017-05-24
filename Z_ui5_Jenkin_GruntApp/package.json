@@ -1,0 +1,19 @@
+{
+  "name": "Z_ui5_Jenkin_GruntApp",
+  "version": "1.0.1",
+  "description": "Test UI5",
+  "license": "MIT",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roji29/Devops.git"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-htmlhint": "^0.9.13",
+    "grunt-nwabap-ui5uploader": "^0.1.19",
+    "grunt-openui5": "^0.11.0",
+    "grunt-xml-validator": "^1.1.3"
+  }
+}
